@@ -24,7 +24,7 @@ Bem-vindo ao repositório de anotações e resumos dos cursos realizados na plat
     - [O Desafio Mobile](#42-a-chegada-do-mobile)
 5. [👨‍💻 Carreira e Arquitetura de Software](#-carreira-e-arquitetura-de-software)
     - [Front-end, Back-end e Full Stack](#51-áreas-de-atuação-a-analogia-da-casa)
-    - [Profissional em T](#52-o-profissional-em-ti)
+    - [Profissional em TI](#52-o-profissional-em-ti)
 6. [🧰 Ferramentas de Diagnóstico](#-ferramentas-de-diagnóstico)
 7. [🚀 Conclusão e Próximos Passos](#-conclusão-e-próximos-passos)
 
