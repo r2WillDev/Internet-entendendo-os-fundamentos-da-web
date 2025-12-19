@@ -298,7 +298,7 @@ Com a inversão do mercado (hoje o celular é o dispositivo principal de acesso)
 * **Full Stack:**
     * Profissional versátil capaz de atuar nas duas pontas.
 
-### 5.2 O Profissional em T
+### 5.2 O Profissional em TI
 O modelo ideal de carreira moderno:
 * **Horizontal (Generalista):** Conhece um pouco de várias áreas (Redes, UX, Banco de Dados) para se comunicar bem.
 * **Vertical (Especialista):** Tem conhecimento profundo em uma área específica (ex: Especialista em Java).
